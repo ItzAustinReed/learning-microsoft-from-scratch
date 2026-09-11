@@ -1,6 +1,13 @@
 # AI-901 Official Resources
 
-## Microsoft Certification
+This directory contains curated official links, documentation, and community study guides for Microsoft Azure AI exams.
+
+## AI Fundamentals & Advanced Prep
+
+* **Microsoft Learn - Azure AI Fundamentals**: [Official AI Fundamentals Pathway](https://learn.microsoft.com/en-us/training/paths/get-started-with-artificial-intelligence-on-azure/)
+* **AI-901 Exam Guide & Study Notes**: [AI-901 Comprehensive Exam Guide (2026)](https://rentry.co/microsoft-azure-ai-901-exam-guide-2026)
+* **Azure AI Services Documentation**: [Official Azure AI Services Docs](https://learn.microsoft.com/en-us/azure/ai-services/)
+* **Microsoft Azure Applied Skills**: [Official Interactive Labs](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
 
 ### Azure AI Fundamentals
 
